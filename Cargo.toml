@@ -2,6 +2,8 @@
 name = "postcard-heapless-compat"
 version = "0.1.0"
 edition = "2021"
+description = "an adapter to use postcard with heapless >= 0.8"
+license = "MIT OR Apache-2.0"
 
 [dependencies.postcard]
 version = "1.1.1"
